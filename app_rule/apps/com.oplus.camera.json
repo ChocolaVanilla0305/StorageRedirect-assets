@@ -15,11 +15,12 @@
       "zh_CN": "此应用会在存储根目录创建 .SLOGAN 文件夹",
       "en": "This app creates .SLOGAN folder in storage root"
     },
+    "@persisting_non_user_file_is_abuse"
   ],
   "export_folders": {
     "data": {
       "saved_pictures_0": {
-        "title": "@saved_pictures",
+        "title": "@saved_files",
         "source": "DCIM/Camera",
         "target": "DCIM/Camera",
         "call_media_scan": true,
