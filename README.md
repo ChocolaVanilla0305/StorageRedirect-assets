@@ -11,7 +11,4 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 <br/>有issues请在这个仓库提出！
 
 # 如何使用
-![](https://raw.githubusercontent.com/ChocolaVanilla0305/StorageRedirect-assets/refs/heads/master/imgs/01.png)
-![](https://raw.githubusercontent.com/ChocolaVanilla0305/StorageRedirect-assets/refs/heads/master/imgs/02.png)
-![](https://raw.githubusercontent.com/ChocolaVanilla0305/StorageRedirect-assets/refs/heads/master/imgs/03.png)
-![](https://raw.githubusercontent.com/ChocolaVanilla0305/StorageRedirect-assets/refs/heads/master/imgs/04.png)
+[使用指南](https://github.com/ChocolaVanilla0305/StorageRedirect-assets/blob/master/guides/how2use.md)
