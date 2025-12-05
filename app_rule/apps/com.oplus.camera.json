@@ -1,0 +1,16 @@
+{
+  "package": "com.oplus.camera"
+  "verified": false,
+  "authors": [
+    "ChocolaVanilla0305"
+  ],
+  "last_update": {
+    "timestamp": 1763443797, 
+    "version_name": "6.106.72",
+    "target_api": 36
+  },
+  "behaviors": [
+    "zh_CN": "此应用在根目录创建 .SLOGAN 文件夹"
+  ],
+  "recommendation": "@recommended"
+}
