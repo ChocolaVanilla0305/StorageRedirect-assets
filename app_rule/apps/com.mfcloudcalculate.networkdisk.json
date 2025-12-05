@@ -18,8 +18,8 @@
   ],
   "export_folders": {
     "data": {
-      "saved_files_0": {
-        "title": "@saved_files",
+      "download_files_0": {
+        "title": "@download_files",
         "source": "123云盘",
         "target": "Download/123云盘",
         "call_media_scan": true,
