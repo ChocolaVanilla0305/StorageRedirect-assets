@@ -1,0 +1,30 @@
+{
+  "package": "com.xjs.ehviewer"
+  "verified": false,
+    "authors": [
+    "2698219355gts-code"
+  ],
+  "last_update": {
+    "timestamp": 1758089339,
+    "version_name": "2.0.0.1",
+    "version_code": 111
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "此应用会在存储根目录创建 EhViewer 文件夹"
+    }
+  ]
+  "export_folders": {
+      "data": {
+          "saved_files_0": {
+              "title": "@saved_files",
+              "source": "EhViewer",
+              "target": "Documents/EhViewer",
+              "call_media_scan": true,
+              "add_to_downloads": true,
+              "allow_child": false
+            }
+        }
+    }
+}
