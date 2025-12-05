@@ -16,5 +16,18 @@
       "en": "This app creates .SLOGAN folder in storage root for ad banners and ID photo templates"
     },
     "@persisting_non_user_file_is_abuse"
-  ]
+  ],
+  "export_folders": {
+    "data": {
+      "saved_files_0": {
+        "title": "@saved_files",
+        "source": "DCIM/Camera",
+        "target": "DCIM/Camera",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
 }
