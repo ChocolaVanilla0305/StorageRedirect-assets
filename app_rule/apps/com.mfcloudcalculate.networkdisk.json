@@ -13,7 +13,7 @@
   "behaviors": [
     {
       "zh_CN": "此应用会在存储根目录创建 123云盘 文件夹"
-    },
+    }
   ],
   "export_folders": {
     "data": {
