@@ -9,6 +9,7 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 # 关于此仓库
 ~~此仓库解决源仓库持续不维护的问题~~
 <br/>有issues请在这个仓库提出！
+<br/>由于对维护工作还有点不熟悉且不会去耗费很多时间测试应用，关于规则如果读取不出来也请写一份issues！
 
 # 如何使用
 [使用指南](https://github.com/ChocolaVanilla0305/StorageRedirect-assets/blob/master/guides/how2use.md)
