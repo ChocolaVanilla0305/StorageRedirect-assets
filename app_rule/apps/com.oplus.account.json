@@ -1,16 +1,19 @@
 {
-  "package": "com.oplus.account", 
+  "package": "com.oplus.account",
   "verified": false,
   "authors": [
     "DestoryG"
   ],
   "last_update": {
-    "timestamp": 1764000292
+    "timestamp": 1764000292,
     "version_name": "CN_9.11.207_6454cf8",
     "version_code": 911207
   },
-  "recommendation": "@recommended", 
+  "recommendation": "@recommended",
   "behaviors": [
-    "zh_CN": "此应用在根目录下建立 ColorOS 文件夹"
+    {
+      "zh_CN": "此应用会在存储根目录创建 ColorOS 文件夹"
+    },
+    "@persisting_non_user_file_is_abuse"
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "package": "com.mfcloudcalculate.networkdisk"
+  "verified": false,
+  "authors": [
+    "leatrise"
+  ],
+  "last_update": {
+    "timestamp": 1764943159,
+    "version_name": "3.1.3",
+    "version_code": 313
+  },
+  "behaviors": [
+    {
+      "zh_CN": "此应用会在存储根目录创建 123云盘 文件夹"
+    },
+    "@persisting_non_user_file_is_abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "download_files_0": {
+        "title": "@download_files",
+        "source": "123云盘",
+        "target": "Download/123云盘",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
