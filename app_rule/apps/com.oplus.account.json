@@ -13,7 +13,6 @@
   "behaviors": [
     {
       "zh_CN": "此应用会在存储根目录创建 ColorOS 文件夹"
-    },
-    "@persisting_non_user_file_is_abuse"
+    }
   ]
 }

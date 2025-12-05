@@ -12,15 +12,14 @@
   "recommendation": "@recommended",
   "behaviors": [
     {
-      "zh_CN": "此应用会在存储根目录创建 .SLOGAN 文件夹，用于存放广告横幅、证件照模板等资源",
-      "en": "This app creates .SLOGAN folder in storage root for ad banners and ID photo templates"
+      "zh_CN": "此应用会在存储根目录创建 .SLOGAN 文件夹",
+      "en": "This app creates .SLOGAN folder in storage root"
     },
-    "@persisting_non_user_file_is_abuse"
   ],
   "export_folders": {
     "data": {
-      "saved_files_0": {
-        "title": "@saved_files",
+      "saved_pictures_0": {
+        "title": "@saved_pictures",
         "source": "DCIM/Camera",
         "target": "DCIM/Camera",
         "call_media_scan": true,
