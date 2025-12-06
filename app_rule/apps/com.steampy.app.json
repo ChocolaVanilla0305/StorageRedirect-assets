@@ -1,6 +1,8 @@
 {
   "package": "com.steampy.app",
-  "authors": "Stark-Sparking",
+  "authors":[
+    "Stark-Sparking"
+  ],
   "verified": false,
   "last_update": {
     "timestamp": 1746379620
