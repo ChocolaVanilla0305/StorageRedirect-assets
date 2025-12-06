@@ -1,0 +1,19 @@
+{
+  "package": "com.steampy.app",
+  "authors": "Stark-Sparking",
+  "verified": false,
+  "last_update": {
+    "timestamp": 1746379620
+    "version_name": "2.35.5",
+    "version_code": 135,
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "SteamPY"
+  ]
+}
