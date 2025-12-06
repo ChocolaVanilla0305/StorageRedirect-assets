@@ -1,0 +1,21 @@
+{
+  "package": "com.coloros.gallery3d",
+  "verified": false,
+  "authors": [
+    "ChocolaVanilla0305"
+  ],
+  "last_update": {
+    "timestamp": 1765017538,
+    "version_name": "16.12.76",
+    "version_code": 16012076
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Documents/LongPicImages",
+    "Movies/.thumbnails",
+    "oua_classifier"
+  ]
+}
