@@ -5,11 +5,11 @@
     "coderfox",
     "IJustWantANamePlease"
   ],
-    "last_update": {
-      "timestamp": 1658670875,
-      "version_name": "11.18.1.2936",
-      "version_code": 111800
-    },
+  "last_update": {
+    "timestamp": 1658670875,
+    "version_name": "11.18.1.2936",
+    "version_code": 111800
+  },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"

@@ -1,0 +1,29 @@
+{
+  "package": "com.shuqi.controller",
+  "verified": false,
+  "authors": [
+    "Mc-user1688"
+  ],
+  "last_update": {
+    "timestamp": 1684987294,
+    "version_name": "11.8.9.187",
+    "version_code": 267
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".7934039a",
+    ".OAIDSystemConfig",
+    ".UTSystemConfig",
+    ".a8a3_1944_91d5_aa08_18b0",
+    ".gs_fs6",
+    ".jpush",
+    ".oukdtft",
+    ".vivo",
+    "com.shuqi.controller",
+    "data",
+    "shuqi"
+  ]
+}
