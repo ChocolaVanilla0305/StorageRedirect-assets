@@ -1,0 +1,17 @@
+{
+  "package": "com.geektoy.nfctool",
+  "authors": "ChocolaVanilla0305",
+  "verified": false,
+  "last_update": {
+    "timestamp": 1765021599,
+    "version_name": "2.7.3",
+    "version_code": 273
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "NfcTools"
+  ]
+}
