@@ -1,0 +1,25 @@
+{
+  "package": "com.qihoo.browser",
+  "authors": [
+    "1918297329"
+  ],
+  "verified": false,
+  "last_update": {
+    "timestamp": 1681027668,
+    "version_name": "v10.1.1.800",
+    "version_code": 10010180
+  },
+  "non_standard_files": [
+    ".qhDevice",
+    ".sdk",
+    "360",
+    "360Browser",
+    "360aphonebrowser_v2_v10.1.1.900.apk",
+    "ByteDownload",
+    "com.qihoo.browser"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
