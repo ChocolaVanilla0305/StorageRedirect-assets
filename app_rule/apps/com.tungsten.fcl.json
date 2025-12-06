@@ -1,0 +1,19 @@
+{
+  "package": "com.tungsten.fcl",
+  "verified": false,
+  "authors": [
+    "ChocolaVanilla0305"
+  ],
+  "last_update": {
+    "timestamp": 1765020592,
+    "version_name": "1.2.6.7",
+    "version_code": 1267
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "FCL"
+  ],
+  "recommendation": "@recommended"
+}
