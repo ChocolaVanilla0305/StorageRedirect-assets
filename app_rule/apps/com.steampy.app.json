@@ -1,9 +1,9 @@
 {
   "package": "com.steampy.app",
-  "authors":[
+  "verified": false,
+  "authors": [
     "Stark-Sparking"
   ],
-  "verified": false,
   "last_update": {
     "timestamp": 1746379620
     "version_name": "2.35.5",
