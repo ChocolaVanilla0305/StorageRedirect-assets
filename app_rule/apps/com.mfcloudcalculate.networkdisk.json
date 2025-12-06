@@ -2,7 +2,11 @@
   "package": "com.mfcloudcalculate.networkdisk",
   "verified": false,
   "authors": [
-    "leatrise"
+    "leatrise", 
+    "20315", 
+    "1050277038", 
+    "kiritomemory", 
+    "lsp-op"
   ],
   "last_update": {
     "timestamp": 1764943159,
@@ -11,9 +15,10 @@
   },
   "recommendation": "@recommended",
   "behaviors": [
-    {
-      "zh_CN": "此应用会在存储根目录创建 123云盘 文件夹"
-    }
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "123云盘"
   ],
   "export_folders": {
     "data": {
