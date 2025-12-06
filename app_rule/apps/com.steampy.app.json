@@ -5,9 +5,9 @@
     "Stark-Sparking"
   ],
   "last_update": {
-    "timestamp": 1746379620
+    "timestamp": 1746379620, 
     "version_name": "2.35.5",
-    "version_code": 135,
+    "version_code": 135
   },
   "behaviors": [
     "@abuse"
