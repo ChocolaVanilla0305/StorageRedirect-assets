@@ -15,17 +15,5 @@
   ],
   "non_standard_files": [
     "EhViewer"
-  ],
-  "export_folders": {
-      "data": {
-          "downloaded_pictures_0": {
-              "title": "@downloaded_pictures",
-              "source": "EhViewer/download",
-              "target": "Download/EhViewer",
-              "call_media_scan": true,
-              "add_to_downloads": true,
-              "allow_child": false
-            }
-        }
-    }
+  ]
 }
