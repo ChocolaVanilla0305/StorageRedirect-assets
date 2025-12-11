@@ -2,7 +2,8 @@
     "package": "com.baidu.tieba",
     "verified": false,
     "authors": [
-        "双草酸酯"
+        "双草酸酯",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1573909761
@@ -15,7 +16,7 @@
         "data": {
             "saved_pictures_0": {
                 "title": "@saved_pictures",
-                "source": "tieba",
+                "source": "DCIM/tieba",
                 "target": "Pictures/tieba",
                 "mask": ".+\\.(jpg|png|gif)$",
                 "call_media_scan": true,

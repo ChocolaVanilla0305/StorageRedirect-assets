@@ -2,7 +2,8 @@
     "package": "com.netease.gl",
     "verified": false,
     "authors": [
-        "uinanfan32"
+        "uinanfan32",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1573909761
@@ -10,5 +11,8 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
+    ],
+    "non_standard_files": [
+    "Pictures/CCExternalFileKvManager"
     ]
 }

@@ -4,7 +4,8 @@
     "authors": [
         "DEVELOPER",
         "zhxhwyzh14",
-        "lelemka0"
+        "lelemka0",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1585130083,
@@ -14,6 +15,14 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
+    ],
+    "non_standard_files": [
+    ".7934039a",
+    ".UTSystemConfig",
+    "Pictures/.gs",
+    "Pictures/.gs_fs0",
+    "alipay",
+    "amap"
     ],
     "accessible_folders": {
         "data": {
