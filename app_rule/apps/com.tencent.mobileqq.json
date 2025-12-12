@@ -10,7 +10,8 @@
         "chyanmo",
         "Olderdriver",
         "Riddle233",
-        "TimeRainStarSky"
+        "TimeRainStarSky",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1651236329,
@@ -19,8 +20,16 @@
     },
     "recommendation": "@recommended",
     "behaviors": [
-        "@abuse"
+        {
+            "zh_CN": "不建议直接授权整个DCIM目录，因为QQ会在DCIM目录下新建文件夹"
+        }
     ],
+    "non_standard_files": [
+    "Android/.android_lq",
+    "DCIM/.android",
+    "DCIM/MyAlbums",
+    "Tencent"
+  ],
     "accessible_folders": {
         "data": {
             "colorqq": {
