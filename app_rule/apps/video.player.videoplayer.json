@@ -2,7 +2,8 @@
     "package": "video.player.videoplayer",
     "verified": false,
     "authors": [
-        "peng1999"
+        "peng1999",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1573909761
@@ -10,5 +11,8 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
+    ],
+    "non_standard_files": [
+        "X Video Player"
     ]
 }
