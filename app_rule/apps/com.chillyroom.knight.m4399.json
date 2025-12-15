@@ -1,0 +1,20 @@
+{
+  "package": "com.chillyroom.knight.m4399",
+  "verified": false,
+  "authors": [
+  	"ChocolaVanilla0305"
+  ],
+  "last_update": {
+    "timestamp": 1765803977,
+    "version_name": "7.7.0",
+    "version_code": 70700
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".Android",
+    "storage"
+  ]
+}
