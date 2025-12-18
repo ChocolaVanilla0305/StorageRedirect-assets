@@ -2,7 +2,8 @@
     "package": "com.njh.biubiu",
     "verified": false,
     "authors": [
-        "wenxuantao"
+        "wenxuantao",
+        "ChocolaVanilla0305"
     ],
     "last_update": {
         "timestamp": 1573909761
@@ -10,5 +11,13 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
-    ]
+    ],
+    "non_standard_files": [
+    ".7934039a",
+    ".gs",
+    ".gs_fs0",
+    ".gs_fs6",
+    ".UTSystemConfig",
+    "SigmobAndroid"
+  ]
 }
