@@ -1,0 +1,21 @@
+{
+  "package": "it.dhd.oxygencustomizer",
+  "verified": false,
+  "authors": [
+    "furrybluelan"
+  ],
+  "last_update": {
+    "timestamp": 1766153342,
+    "version_name": "nightly-205 (#1842)",
+    "version_code": 205
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".oc",
+    ".oxygen_customizer",
+    ".picker_transcoded"
+  ]
+}
