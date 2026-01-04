@@ -2,12 +2,13 @@
   "package": "com.coolapk.market",
   "verified": false,
   "authors": [
-    "xiangyu0"
+    "xiangyu0",
+    "furrybluelan"
   ],
   "last_update": {
-    "timestamp": 1654774626,
-    "version_name": "12.3.1-beta",
-    "version_code": 2206071
+    "timestamp": 1766153461,
+    "version_name": "15.7.2",
+    "version_code": 2510291
   },
   "recommendation": "@recommended",
   "behaviors": [
@@ -15,6 +16,9 @@
   ],
   "non_standard_files": [
     ".UTSystemConfig",
-    "Tencent"
+    "Tencent",
+    "..ccdid",
+    "..ccvid",
+    "._android.dat"
   ]
 }
