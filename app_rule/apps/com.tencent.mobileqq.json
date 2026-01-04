@@ -11,12 +11,13 @@
         "Olderdriver",
         "Riddle233",
         "TimeRainStarSky",
-        "ChocolaVanilla0305"
+        "ChocolaVanilla0305",
+        "furrybluelan"
     ],
     "last_update": {
-        "timestamp": 1651236329,
-        "version_name": "8.8.50",
-        "version_code": 2324
+        "timestamp": 1766153715,
+        "version_name": "9.1.35",
+        "version_code": 8708
     },
     "recommendation": "@recommended",
     "behaviors": [
@@ -27,7 +28,7 @@
     "non_standard_files": [
     "Android/.android_lq",
     "DCIM/.android",
-    "DCIM/MyAlbums",
+    "log.zip",
     "Tencent"
   ],
     "accessible_folders": {
