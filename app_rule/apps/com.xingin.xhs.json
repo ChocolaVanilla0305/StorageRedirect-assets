@@ -3,16 +3,23 @@
   "package": "com.xingin.xhs",
   "authors": [
     "Fingalzzz",
-    "xiangyu0"
+    "xiangyu0",
+    "furrybluelan"
   ],
   "last_update": {
-    "timestamp": 1651485391,
-    "version_name": "7.30.2",
-    "version_code": 7302006
+    "timestamp": 1766154088,
+    "version_name": "9.11.6",
+    "version_code": 9116804
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Download/ks.sr0",
+    "libs"
   ],
   "export_folders": {
     "data": {
