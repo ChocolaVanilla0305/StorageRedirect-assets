@@ -24,9 +24,6 @@
     "package_name": "au.com.shiftyjelly.pocketcasts"
   },
   {
-    "package_name": "com.shuqi.controller"
-  }
-  {
     "package_name": "august.mendeleev.pro"
   },
   {
@@ -495,9 +492,6 @@
     "package_name": "com.chipotle.ordering"
   },
   {
-    "package_name": "com.chillyroom.knight.m4399"
-  },
-  {
     "package_name": "com.chrome.dev"
   },
   {
@@ -538,9 +532,6 @@
   },
   {
     "package_name": "com.codingrays.compress"
-  },
-  {
-    "package_name": "com.coloros.gallery3d"
   },
   {
     "package_name": "com.comic.trim"
@@ -847,9 +838,6 @@
   },
   {
     "package_name": "com.geektoy.nfcemulator"
-  },
-  {
-    "package_name": "com.geektoy.nfctool"
   },
   {
     "package_name": "com.genius.android"
@@ -1377,9 +1365,6 @@
     "package_name": "com.mfashiongallery.emag"
   },
   {
-    "package_name": "com.mfcloudcalculate.networkdisk"
-  },
-  {
     "package_name": "com.mhook.MrSFastTranslation"
   },
   {
@@ -1716,12 +1701,6 @@
     "package_name": "com.opera.mini.native.beta"
   },
   {
-    "package_name": "com.oplus.account"
-  }, 
-  {
-    "package_name": "com.oplus.camera"
-  }, 
-  {
     "package_name": "com.osfans.trime"
   },
   {
@@ -1786,9 +1765,6 @@
   },
   {
     "package_name": "com.qiku.android.filebrowser"
-  },
-  {
-    "package_name": "com.qihoo.browser"
   },
   {
     "package_name": "com.qualcomm.qti.confdialer"
@@ -2079,9 +2055,6 @@
     "package_name": "com.stainlessgames.D15"
   },
   {
-    "package_name": "com.steampy.app"
-  },
-  {
     "package_name": "com.studentbeans.studentbeans"
   },
   {
@@ -2197,9 +2170,6 @@
   },
   {
     "package_name": "com.tstartel.tstarcs"
-  },
-  {
-    "package_name": "com.tungsten.fcl"
   },
   {
     "package_name": "com.twitter.android"
@@ -2383,9 +2353,6 @@
   },
   {
     "package_name": "com.xjcheng.musictageditor"
-  },
-  {
-    "package_name": "com.xjs.ehviewer"
   },
   {
     "package_name": "com.xloger.exlink.app"
@@ -2590,9 +2557,6 @@
   },
   {
     "package_name": "is.shortcut"
-  },
-  {
-    "package_name": "it.dhd.oxygencustomizer"
   },
   {
     "package_name": "it.returntrue.novelist"
