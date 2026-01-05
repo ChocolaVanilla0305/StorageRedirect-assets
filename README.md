@@ -15,33 +15,5 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 [使用指南](https://github.com/ChocolaVanilla0305/StorageRedirect-assets/blob/master/guides/how2use.md)
 
 # 仓库文件说明
-<div>
-│
-├─app_category
-│  │  app_categories_data.json
-│  │  app_categories_description.json
-│  │
-│  └─apps
-│          com.autonavi.minimap.json
-│
-├─**app_rule    规则主入口**
-│  │  app_recommendation_data.json
-│  │  **verified_apps.json    受信应用列表**
-│  │
-│  └─ **apps    应用规则**
-│          ……
-│
-├─**guides    指南文件**
-│      how2use.md
-│
-├─**imgs    指南文件引用的图片**
-│      01.png
-│
-└─tools
-    └─helper_python
-            .gitignore
-            data_converter.py
-            main.py
-            **README.md    本文档**
-            utils.py
-</div>
+app_rule    规则主入口
+verified_apps.json    受信应用列表
