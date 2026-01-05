@@ -21,25 +21,25 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 │  │  app_categories_description.json</br>
 │  │</br>
 │  └─apps</br>
-│          &nbsp;com.autonavi.minimap.json</br>
+│          &thinsp;com.autonavi.minimap.json</br>
 │</br>
 ├─**app_rule    规则主入口**</br>
 │  │  app_recommendation_data.json</br>
 │  │  **verified_apps.json    受信应用列表**</br>
 │  │</br>
 │  └─ **apps    应用规则**</br>
-│          &nbsp;……</br>
+│          &thinsp;&thinsp;……</br>
 │</br>
 ├─**guides    指南文件**</br>
-│      &nbsp;how2use.md</br>
+│      &thinsp;how2use.md</br>
 │</br>
 ├─**imgs    指南文件引用的图片**</br>
-│      &nbsp;01.png</br>
+│      &thinsp;01.png</br>
 │</br>
 └─tools</br>
-    &nbsp;└─helper_python</br>
-            &nbsp;&nbsp;.gitignore</br>
-            &nbsp;&nbsp;data_converter.py</br>
-            &nbsp;&nbsp;main.py</br>
-            &nbsp;&nbsp;**README.md    本文档**</br>
-            &nbsp;&nbsp;utils.py
+    &thinsp;└─helper_python</br>
+            &thinsp;&thinsp;.gitignore</br>
+            &thinsp;&thinsp;data_converter.py</br>
+            &thinsp;&thinsp;main.py</br>
+            &thinsp;&thinsp;**README.md    本文档**</br>
+            &thinsp;&thinsp;utils.py
