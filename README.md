@@ -15,31 +15,31 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 [使用指南](https://github.com/ChocolaVanilla0305/StorageRedirect-assets/blob/master/guides/how2use.md)
 
 # 仓库文件说明
-│
-├─app_category
-│  │  app_categories_data.json
-│  │  app_categories_description.json
-│  │
-│  └─apps
-│          com.autonavi.minimap.json
-│
-├─**app_rule    规则主入口**
-│  │  app_recommendation_data.json
-│  │  **verified_apps.json    受信应用列表**
-│  │
-│  └─ **apps    应用规则**
-│          ……
-│
-├─**guides    指南文件**
-│      how2use.md
-│
-├─**imgs    指南文件引用的图片**
-│      01.png
-│
-└─tools
-    └─helper_python
-            .gitignore
-            data_converter.py
-            main.py
-            **README.md    本文档**
+│</br>
+├─app_category</br>
+│  │  app_categories_data.json</br>
+│  │  app_categories_description.json</br>
+│  │</br>
+│  └─apps</br>
+│          com.autonavi.minimap.json</br>
+│</br>
+├─**app_rule    规则主入口**</br>
+│  │  app_recommendation_data.json</br>
+│  │  **verified_apps.json    受信应用列表**</br>
+│  │</br>
+│  └─ **apps    应用规则**</br>
+│          ……</br>
+│</br>
+├─**guides    指南文件**</br>
+│      how2use.md</br>
+│</br>
+├─**imgs    指南文件引用的图片**</br>
+│      01.png</br>
+│</br>
+└─tools</br>
+    └─helper_python</br>
+            .gitignore</br>
+            data_converter.py</br>
+            main.py</br>
+            **README.md    本文档**</br>
             utils.py
