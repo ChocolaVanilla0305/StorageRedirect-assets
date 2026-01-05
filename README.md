@@ -15,5 +15,5 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 [使用指南](https://github.com/ChocolaVanilla0305/StorageRedirect-assets/blob/master/guides/how2use.md)
 
 # 仓库文件说明
-app_rule    规则主入口
+app_rule    规则主入口<br/>
 verified_apps.json    受信应用列表
