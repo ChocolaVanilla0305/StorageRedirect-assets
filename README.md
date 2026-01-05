@@ -16,4 +16,4 @@ https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
 
 # 仓库文件说明
 app_rule    规则主入口<br/>
-verified_apps.json    受信应用列表
+└─ verified_apps.json    受信应用列表
