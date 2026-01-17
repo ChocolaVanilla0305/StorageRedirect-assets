@@ -36,7 +36,7 @@
             "downloaded_music_1": {
                 "title": "@downloaded_music",
                 "source": "netease/cloudmusic/音质升级",
-                "target": "Music/NetEase",
+                "target": "Music/NetEase_音质升级",
                 "call_media_scan": true,
                 "add_to_downloads": false,
                 "allow_child": false
