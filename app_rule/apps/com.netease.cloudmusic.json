@@ -35,6 +35,14 @@
             },
             "downloaded_music_1": {
                 "title": "@downloaded_music",
+                "source": "netease/cloudmusic/音质升级",
+                "target": "Music/NetEase",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "downloaded_music_2": {
+                "title": "@downloaded_music",
                 "source": "netease/cloudmusic/Dj",
                 "target": "Music/NetEaseDj",
                 "call_media_scan": true,
