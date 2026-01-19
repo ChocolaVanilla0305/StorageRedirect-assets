@@ -1,0 +1,17 @@
+{
+  "package": "com.trim.app", 
+  "verified": false,
+  "authors": [
+    "Pch772"
+  ],
+  "last_update": {
+    "timestamp": 1766742836
+    "version_name": "1.26.1",
+    "version_code": 1261003
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "non_standard_files": [
+    "TRIM"
+  ]
+}
