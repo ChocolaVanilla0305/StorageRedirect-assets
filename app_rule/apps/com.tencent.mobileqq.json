@@ -120,6 +120,18 @@
                 "add_to_downloads": true,
                 "allow_child": false
             },
+            "saved_files_1": {
+                "title": {
+                    "zh_CN": "保存的文件",
+                    "zh": "儲存的檔案",
+                    "en": "Saved files"
+                },
+                "source": "Download/QQ",
+                "target": "Download/QQ",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            },
             "saved_pictures_0": {
                 "title": {
                     "zh_CN": "保存的图片",
