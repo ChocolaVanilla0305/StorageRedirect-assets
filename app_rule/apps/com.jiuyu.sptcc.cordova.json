@@ -10,5 +10,10 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
-    ]
+    ],
+    "non_standard_files": [
+        "360",
+        "amap",
+        "data"
+  ]
 }
